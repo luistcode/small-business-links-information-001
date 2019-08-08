@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: https://github.com/luistcode/small-business-links-information-001.git
+host: small-business-links-information-001.mybluemix.net
+name: small-business-links-information-001
+memory: 64M
+stack: cflinuxfs2
